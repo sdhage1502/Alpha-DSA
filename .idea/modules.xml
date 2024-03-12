@@ -6,8 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" filepath="$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionAndMethod/FunctionAndMethod.iml" filepath="$PROJECT_DIR$/FunctionAndMethod/FunctionAndMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Oprators/Oprators.iml" filepath="$PROJECT_DIR$/Oprators/Oprators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/operators.iml" filepath="$PROJECT_DIR$/operators/operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/varibles-datatypes/varibles-datatypes.iml" filepath="$PROJECT_DIR$/varibles-datatypes/varibles-datatypes.iml" />
     </modules>
   </component>
