@@ -20,6 +20,8 @@ public class Hallow_rectangle {
 
     }
 
+
+
 //main method to call that function
     public static void main(String[] args) {
         hallow_Rectangle(9,10);
