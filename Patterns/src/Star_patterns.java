@@ -238,13 +238,43 @@ for(int i=1;i<n;i++){
         }
         System.out.println("___________________________________________________________________________");
 
-        System.out.println("------------ Pattern – 16: Alpha-Ramp Pattern-----------");
-        System.out.println("___________________________________________________________________________");
 
         System.out.println("------------ Pattern – 16: Alpha-Ramp Pattern-----------");
+        char alphabet  ='A';
+        for(int i=1;i<= n;i++){
+
+            for(int j=1;j<=i;j++){
+                System.out.print(alphabet);
+
+            }alphabet++;
+            System.out.println();
+        }
         System.out.println("___________________________________________________________________________");
 
         System.out.println("------------Pattern – 17: Alpha-Hill Pattern-----------");
+
+        System.out.println("___________________________________________________________________________");
+        System.out.println("------------Pattern – 18-alpha-triangle-pattern-----------");
+
+        for(int i=0;i<n;i++){
+            for( char alpha = (char) (('A'+n-1)-i) ; alpha<=('A'+n-1); alpha++){
+                System.out.print(alpha+" ");
+
+            }
+            System.out.println();
+        }
+
+
+
+
+
+
+
+
+
+
+
+
         System.out.println("___________________________________________________________________________");
 
 
@@ -286,7 +316,17 @@ for(int i=1;i<n;i++){
 
 
         System.out.println("___________________________________________________________________________");
+for(int i=1;i<=n;i++){
 
+    for(int j=1;j<=i;j++){
+        if((i+j)%2==0){
+            System.out.print("1 ");
+
+        }else {System.out.print("0 ");}
+
+    }
+    System.out.println();
+}
 
         System.out.println("main end----------------------------------------");
 
