@@ -10,11 +10,9 @@ public class PrintSubarrays {
             for(int k=i;k<=j; k++){
 
                 System.out.print(arr[k]+" ");
-            //    sum +=arr[k];
 
 
             }
-          //  System.out.print(" sum :- "+ sum);
             System.out.println();
 
             }

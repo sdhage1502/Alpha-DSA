@@ -75,22 +75,7 @@ public class Star_patterns {
             System.out.println();
         }
         System.out.println("7----------------------------------------");
-        for ( int i = 1 ; i <= n ; i++ ) {
-            // Add leading spaces
-            for ( int j = 1 ; j <= n - i ; j++ ) {
-                System.out.print("  ");
-            }
 
-            // Print stars
-            for ( int j = 1 ; j <= 2 * i - 1 ; j++ ) {
-                System.out.print("* ");
-            }
-            for ( int k = 0 ; k < (n - i) - 1 ; k++ ) {
-                System.out.print(" ");
-            }
-            // Move to the next line
-            System.out.println();
-        }
         System.out.println("8----------------------------------------");
 
         for ( int i = 1 ; i <= n ; i++ ) {
@@ -252,6 +237,11 @@ for(int i=1;i<n;i++){
         System.out.println("___________________________________________________________________________");
 
         System.out.println("------------Pattern – 17: Alpha-Hill Pattern-----------");
+        for(int i =1;i<=n;i++){
+            for(int j=1;j<= n-i;j++){
+                System.out.print("_");
+            }
+        }
 
         System.out.println("___________________________________________________________________________");
         System.out.println("------------Pattern – 18-alpha-triangle-pattern-----------");

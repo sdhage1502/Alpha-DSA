@@ -5,11 +5,16 @@
       <module fileurl="file://$PROJECT_DIR$/01Java-Basics/01Java-Basics.iml" filepath="$PROJECT_DIR$/01Java-Basics/01Java-Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Alpha-DSA.iml" filepath="$PROJECT_DIR$/.idea/Alpha-DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/BInarySErach/BInarySErach.iml" filepath="$PROJECT_DIR$/Arrays/BInarySErach/BInarySErach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/BasicString/BasicString.iml" filepath="$PROJECT_DIR$/String/BasicString/BasicString.iml" />
       <module fileurl="file://$PROJECT_DIR$/01Java-Basics/ConditionalStatement/ConditionalStatement.iml" filepath="$PROJECT_DIR$/01Java-Basics/ConditionalStatement/ConditionalStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/01Java-Basics/FunctionAndMethod/FunctionAndMethod.iml" filepath="$PROJECT_DIR$/01Java-Basics/FunctionAndMethod/FunctionAndMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/01Java-Basics/Loops/Loops.iml" filepath="$PROJECT_DIR$/01Java-Basics/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/MaxSubArraysSum/MaxSubArraysSum.iml" filepath="$PROJECT_DIR$/Arrays/MaxSubArraysSum/MaxSubArraysSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01Java-Basics/basicProgram/basicProgram.iml" filepath="$PROJECT_DIR$/01Java-Basics/basicProgram/basicProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/01Java-Basics/operators/operators.iml" filepath="$PROJECT_DIR$/01Java-Basics/operators/operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/varibles-datatypes/varibles-datatypes.iml" filepath="$PROJECT_DIR$/varibles-datatypes/varibles-datatypes.iml" />
     </modules>

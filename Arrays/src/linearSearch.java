@@ -1,5 +1,6 @@
 public class linearSearch {
     //funtion to serach the key from the follwing array of number in linear order
+
     public static int linearSearching(int number[],int key) {
         for ( int i = 0 ; i < number.length ; i++ ) {
             if (number[i] == key) {

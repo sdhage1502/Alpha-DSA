@@ -1,5 +1,7 @@
 public class reverseArray {
-    public static void reverse(int number[]){
+
+
+        public static void reverse(int number[]){
         int first =0;
         int last =number.length-1;
         while(first<last){
@@ -12,6 +14,17 @@ public class reverseArray {
         }
 
     }
+         public static void reversenumberForloop(int number[]){
+
+            for ( int i=number.length-1;i>=0;i-- ){
+                System.out.print(number[i]+ " ");
+
+            }
+             System.out.println();
+
+         }
+
+
     //main method
     public static void main(String[] args) {
         int number []={21,34,54 ,78,9,46};
@@ -21,12 +34,18 @@ public class reverseArray {
      }
         System.out.println();
 
-        reverse(number);
-        System.out.println("Reverse Array is : -");
-        for ( int i =0;i<number.length;i++ ){
-            System.out.print(number[i]+" " );
+//        reverse(number);
+//        System.out.println("Reverse Array is : -");
+//        for ( int i =0;i<number.length;i++ ){
+//            System.out.print(number[i]+" " );
+//
+//        }
+//        System.out.println();
+
+        System.out.println("Reverse Array using for loop : -");
+
+        reversenumberForloop(number);
 
         }
-        System.out.println();
-    }
+
 }
