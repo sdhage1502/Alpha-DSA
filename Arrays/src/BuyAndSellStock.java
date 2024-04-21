@@ -15,7 +15,8 @@ public static int buySell(int prices[]){
         }
     }
 return maxprofit; // at last return our max profit
-    }
+}
+
 
     public static void main(String[] args) {
         int prices[]={7,1,5,3,6,4};
