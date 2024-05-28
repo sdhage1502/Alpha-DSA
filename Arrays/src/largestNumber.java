@@ -23,7 +23,7 @@ public class largestNumber {
          int numbers[]={23,76,83,100,607,276,25};
        
         System.out.println("larget number from the array is :- " +findLargest(numbers));
-int maxx = Integer.MIN_VALUE;
-        System.out.println(maxx);
+//int maxx = Integer.MIN_VALUE;
+//        System.out.println(maxx);
     }
 }
